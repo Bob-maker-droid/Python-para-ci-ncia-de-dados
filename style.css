@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, sans-serif;
+  background: url('fundo.jpg') no-repeat center center fixed;
+  background-size: cover;
+ color: #b4b28d;
+  margin: 0;
+  padding: 0;
+background-color: #004d4d;
+}
+
+nav.menu {
+  background-color: #b9e6b0;
+  padding: 10px;
+  position: sticky;
+  top: 0;
+}
+
+nav.menu a{
+  color: #8fc266;
+  margin-right: 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav.menu :hover {
+  text-decoration: underline;
+  color: #47660e;
+}
+
+section {
+  padding: 20px;
+}
+
+h1, h2, h3, h4 {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: #e6dcb0;
+   font-family: 'Times New Roman', Times, serif;
+  max-width: 1000px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #358383;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0, 0.4);
+  color: #fffbe0;
+  font-size: 1.1em;
+  line-height: 1.6em;
+ 
+}
+nav {
+  color: rgb(154, 165, 67);
+}
+.box {
+  max-width: 1000px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #004d4d;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0, 0.4);
+  color: #fffbe0;
+  font-size: 1.1em;
+  line-height: 1.6em;
+
+}
